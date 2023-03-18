@@ -16,12 +16,12 @@ public class Main {
 // to generate for e.g: start: 23; stop: 32; and how many multiples they want to create.
 //   Use the user input to generate the table automatically based on the data provided.
     public static void main(String[] args) {
-    /*MultiplicationTable table1 = new MultiplicationTable(5, 12);
-    ArrayList<String> list1 = table1.multiply();
-    for (String current : list1) {
-        System.out.println(current);
-    }
-    */
+//    MultiplicationTable table1 = new MultiplicationTable(5, 12);
+//    ArrayList<String> list1 = table1.multiply();
+//    for (String current : list1) {
+//        System.out.println(current);
+//    }
+
 
 //        Scanner scanner = new Scanner(System.in);
 //        System.out.print("Enter the number: ");
